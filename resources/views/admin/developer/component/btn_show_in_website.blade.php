@@ -1,0 +1,1 @@
+<a title="مشاهده این مطلب در سایت" target="_blank" href="{{route("front.".$route.".show",$id)}}" type="button" class="btn btn-warning">مشاهده در سایت</a>

@@ -1,0 +1,1 @@
+<a title="بازگشت به لیست" @isset($model) href="{{route('admin.'. $model .'.index')}}" @endif class="btn green">بازگشت به لیست</a>
